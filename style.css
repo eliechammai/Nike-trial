@@ -6,7 +6,7 @@
 body {
     width: 100vw;
     height: 100vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.158),green);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.157),green);
 }
 
 .header{
@@ -43,7 +43,7 @@ body {
 {
     display: inline-block;
     margin-right: 30px;
-    border: 2px solid black;
+    border: 2px solid rgb(235, 29, 74);
     background: transparent;
     outline: white;
     width: 60px;
