@@ -43,7 +43,7 @@ body {
 {
     display: inline-block;
     margin-right: 30px;
-    border: 2px solid rgb(235, 29, 74);
+    border: 2px solid black;
     background: transparent;
     outline: white;
     width: 60px;
