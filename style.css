@@ -91,7 +91,7 @@ body {
     margin-left: 80px;
 }
 
-@media (min-width:600px) and (max-width:745px){
+@media (min-width:630px) and (max-width:745px){
 
    
     .middle{
@@ -102,12 +102,12 @@ body {
 
     .middle img{
         position: relative;
-        right: 200px;
+        right: 150px;
     }
 
 }
 
-@media (max-width:600px){
+ @media (min-width:300px) and (max-width:629px){
 
 
 .middle{
@@ -125,14 +125,14 @@ body {
 }
 
 .disp-in-bl {
-    margin-left: 70px;
-
-    
+    position: relative;
+    left: 100px;
 }
 
 .middle div {
     border: 2px solid white;
-    margin-top: 70px;
+    margin-top: 50px;
+    margin-left: 170px;
     width: 330px;
     height: 150px;
 
@@ -141,5 +141,41 @@ body {
     margin: 50px 0px 0px 40px;
     width: 300px;
 }
-
+.middle img{
+    position: relative;
+    bottom: 70px;
+    left: 80px;
 }
+
+.disp-in-bl li a {
+    margin-right: 10px;
+    width: 55px;
+}
+
+.disp-in-bl li a#cnt {
+    margin-right: 15px;
+}
+
+#mylogo {
+    
+    margin: 20px 0px 0px 170px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.middle h2.you{
+    margin-left: 120px;
+}
+} 
+
+
+
+/* @media (min-width:) and (max-width:){
+
+
+
+
+
+} */ 
+
+
